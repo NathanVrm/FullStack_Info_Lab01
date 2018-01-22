@@ -1,0 +1,9 @@
+cd <name of directory>
+md <new directory name>
+ren <previous name> <new name>
+dir
+move <file current path> <new directory path>
+copy <file current path> <new directory path>
+find <string of searched characters> <txt file path>
+winrs
+rd (/s) <directory to be deleted>
